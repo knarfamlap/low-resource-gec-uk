@@ -39,5 +39,7 @@ $ python3 train.py --train_tsv /path/to/train/tsv \
 To generate hypothesis
 
 ```bash
-$ bash generate.sh /path/to/source/data /path/to/trained/mt5 /path/to/outputdir
+$ bash generate.sh /path/to/source/data \
+                   /path/to/trained/mt5 \
+                   /path/to/outputdir
 ```
