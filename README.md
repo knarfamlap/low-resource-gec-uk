@@ -2,20 +2,20 @@
 
 ## Getting Started
 
-1. Clone this repo:
+Clone this repo:
 
 ```bash
 $ git clone https://github.com/knarfamlap/low-resource-gec-uk.git
 ```
 
-2. Create a python envoriment:
+Create a python envoriment:
 
 ```bash
 $ python3 -m venv env
 $ source env/bin/activate
 ```
 
-3. Install dependencies
+Install dependencies
 
 ```bash
 $ python3 -m pip install -r requirements.txt
