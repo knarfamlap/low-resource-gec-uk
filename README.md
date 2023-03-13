@@ -33,3 +33,11 @@ $ python3 train.py --train_tsv /path/to/train/tsv \
     --batch_size 32 \
     --max_epochs 3
 ```
+
+## Inference
+
+To generate hypothesis
+
+```bash
+$ bash generate.sh /path/to/source/data /path/to/trained/mt5 /path/to/outputdir
+```
