@@ -1,6 +1,6 @@
 # A Low-Resource Approach to the Grammatical Error Correction of Ukranian
 
-This repository contains the code for the paper ["A Low-Resource Approach to the Grammatical Error Correction of Ukrainian"](https://aclanthology.org/2023.unlp-1.14/) present at EACL 2023 at the UNLP Workshop.
+This repository contains the code for the paper ["A Low-Resource Approach to the Grammatical Error Correction of Ukrainian"](https://aclanthology.org/2023.unlp-1.14/) presented at EACL 2023 at the UNLP Workshop.
 
 Authors: Frank Palma Gomez, Alla Rozovskaya, Dan Roth
 
